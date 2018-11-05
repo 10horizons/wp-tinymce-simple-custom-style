@@ -1,6 +1,4 @@
-# wp-tinymce-simple-custom-style
-
-WP TinyMCE Custom Style
+# WP TinyMCE Custom Style #
 
 A simple WordPress plugin to style WordPress editor (tinyMCE).
 
