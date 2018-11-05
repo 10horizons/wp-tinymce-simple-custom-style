@@ -8,7 +8,7 @@ Version: 0.1
 */
 
 function ttb_custom_tinymce_style( $in ) {
-	$in['content_css'] = plugin_dir_url( __FILE__ ) . "/tinymce-style.css";
+	$in['content_css'] = plugin_dir_url( __FILE__ ) . "/editor-style.css";
 	return $in;
 }
 add_filter( 'tiny_mce_before_init', 'ttb_custom_tinymce_style' );
