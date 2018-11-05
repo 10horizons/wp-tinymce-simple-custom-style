@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP TinyMCE Custom Style
 Plugin URI: https://tentenbiz.com
-Description: TinyMCE custom style.
+Description: A simple WordPress plugin to style WordPress editor (tinyMCE).
 Author: Tentenbiz Solutions
 Version: 0.1
 */
